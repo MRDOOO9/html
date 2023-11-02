@@ -1,0 +1,36 @@
+.Burger {
+  margin: 0 auto;
+  width: 267px;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+#Button1, #Button2, #Button3, #Button4 {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+}
+
+#Button1, #Button2, #Button3, #Button4 {
+  margin: 5px;
+}
+
+#Restart_Button, #Next_Button {
+  width: 60px;
+  height: 30px;
+  background-color: white;
+  margin-top: 10px;
+}
+
+#Img_Flag {
+  width: 200px;
+  height: 150px;
+}
+
+#Point_Flag, #True_False {
+  text-align: center;
+  margin: 10px 0;
+}
